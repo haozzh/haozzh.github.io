@@ -1,5 +1,5 @@
 ---
-title:          "Stabilizing and Accelerating Federated Learning on Heterogeneous Data with Partial Client Participation"
+title:          "Federated Learning Based on Model Discrepancy and Variance Reduction"
 date:           2024-12-20 00:00:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
