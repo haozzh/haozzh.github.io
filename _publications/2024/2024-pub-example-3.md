@@ -6,7 +6,7 @@ pub:            "IEEE Transactions on Neural Networks and Learning Systems (TNNL
 pub_date:       "2024"
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - **Hao Zhang**
+  - "<strong>Hao Zhang</strong>"
   - Chenglin Li
   - Wenrui Dai
   - Ziyang Zheng
