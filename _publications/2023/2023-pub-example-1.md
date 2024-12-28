@@ -1,17 +1,17 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "FedCR: Personalized Federated Learning Based on Across-Client Common Representation with Conditional Mutual Information Regularization"
+date:           2023-04-30 00:00:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2023"
-abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/cover3.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+  - "<strong>Hao Zhang</strong>"
+  - Chenglin Li
+  - Wenrui Dai
+  - Junni Zou
+  - Hongkai Xiong
 links:
-  Paper: https://www.cell.com
+  Code: https://github.com/haozzh/FedCR
+  Paper: https://proceedings.mlr.press/v202/zhang23w/zhang23w.pdf
 ---
