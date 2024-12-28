@@ -4,7 +4,7 @@ date:           2023-04-30 00:00:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2023"
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2023_cover1.jpg
 authors:
   - "<strong>Hao Zhang</strong>"
   - Chenglin Li
