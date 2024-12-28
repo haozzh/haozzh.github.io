@@ -14,7 +14,7 @@
                     <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
                 </div>
                 {% if forloop.last == false %}
-                <hr style="width: 20%; margin-left: 50px; border: 1px solid #ddd;">
+                <hr style="width: calc(100% - 80px); margin-left: 40px; border: 0.5px solid #ddd;">
                 {% endif %}
                 {% endfor %}
             </div>
