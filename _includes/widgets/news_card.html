@@ -13,6 +13,9 @@
                     <div>{{ item.title }}</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
                 </div>
+                {% if forloop.last == false %}
+                <hr style="width: 90%; margin: 5px auto; border: 1px solid #ddd;">
+                {% endif %}
                 {% endfor %}
             </div>
         </div>
