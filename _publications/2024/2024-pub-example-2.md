@@ -4,7 +4,7 @@ date:           2024-09-26 00:00:00 +0800
 selected:       true
 pub:            "Neural Information Processing Systems (NeurIPS)"
 pub_date:       "2024"
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2024_cover2.jpg
 authors:
   - "<strong>Hao Zhang</strong>"
   - Chenglin Li
