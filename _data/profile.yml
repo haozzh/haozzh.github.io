@@ -22,10 +22,10 @@ github: haozzh
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. candidate under the supervision of
-  [Chenglin Li](https://scholar.google.com/citations?user=ltW2JMcAAAAJ&hl=en)
-  and [Hongkai Xiong](https://scholar.google.com/citations?user=bB16iN4AAAAJ&hl=en)
-  at the [MIN Laboratory](https://min.sjtu.edu.cn/).
+  I am a Ph.D. candidate under the supervision of
+  <a href="https://scholar.google.com/citations?user=ltW2JMcAAAAJ&hl=en">Chenglin Li</a>
+  and <a href="https://scholar.google.com/citations?user=bB16iN4AAAAJ&hl=en">Hongkai Xiong</a>
+  at the <a href="https://min.sjtu.edu.cn/">MIN Laboratory</a>.
   </p>
   <p>
     My research interests include Federated Learning, Distributed Compression and Optimization, Bayesian Learning, and the Information Bottleneck.
