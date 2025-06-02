@@ -6,7 +6,7 @@ pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2025"
 cover:          
 authors:
-  - Li Ding, Hao Zhang, Wenrui Dai, Chenglin Li, Weijia Lu, ZHIFEI YANG, xiaodong Zhang, Xiaofeng Ma, Junni Zou, Hongkai Xiong
+  - "<Li Ding*</strong>"
   - "<strong>Hao Zhang*</strong>"
   - Wenrui Dai
   - Chenglin Li
