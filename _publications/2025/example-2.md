@@ -6,7 +6,7 @@ pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2025"
 cover:          
 authors:
-  - "<strong>*</strong>"
+  - "<strong>Li Ding*</strong>"
   - "<strong>Hao Zhang*</strong>"
   - Wenrui Dai
   - Chenglin Li
