@@ -38,13 +38,20 @@ portrait_url: /assets/images/photos/portrait.jpg
 #portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
+experience:
+- name: East China Normal University
+  logo: /assets/images/badges/ecnu.png
+  position: >-
+    Associate Professor (Zijiang Young Scholar)
+  date: Dec. 2025 - present
+
 education:
 - name: Shanghai Jiao Tong University
   logo: /assets/images/badges/sjtu.png
   position: >- 
     Department of Electronic Engineering <br/>
-    Ph.D. Student
-  date: Sep. 2019 - present
+    Ph.D.
+  date: Sep. 2019 - Sep. 30, 2025
 - name: University of Electronic Science and Technology of China
   logo: /assets/images/badges/uestc.png
   position: >-
